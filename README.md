@@ -22,35 +22,6 @@ The *Task Manager Dashboard* is a user-friendly web app designed to simplify tas
 - *CSS*: For styling and layout, with added animations and transitions.
 - *JavaScript*: For task management logic, local storage integration, and filter functionalities.
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- *Node.js* and *MongoDB* if planning to expand this project (not necessary for basic usage)
-
-### Installation
-
-1. *Clone the repository:*
-
-    bash
-    git clone https://github.com/your_username/task-manager-dashboard.git
-    
-
-2. *Navigate to the project directory:*
-
-    bash
-    cd task-manager-dashboard
-    
-
-3. *Open index.html* in your preferred browser to start using the Task Manager.
-
-## 📖 Usage
-
-1. *Add a Task: Enter the task title, description, due date, and priority, then click **Add Task*.
-2. *View & Manage Tasks*: Tasks are organized into categories for better management.
-3. *Edit, Complete, and Delete Tasks*: Use action buttons to modify or remove tasks.
-4. *Search & Filter Tasks*: Use the search bar and dropdowns for priority and status filters.
-5. *Reset Filters: Click **Home* to show all tasks after filtering.
 
 ## 📁 File Structure
 
