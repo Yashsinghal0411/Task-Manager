@@ -22,7 +22,6 @@ The *Task Manager Dashboard* is a user-friendly web app designed to simplify tas
 - *CSS*: For styling and layout, with added animations and transitions.
 - *JavaScript*: For task management logic, local storage integration, and filter functionalities.
 
-
 ## 📁 File Structure
 
 Here's a quick overview of the main files in the project:
